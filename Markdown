@@ -1,6 +1,6 @@
-#Markdown Basics#
+#Markdown Basics
 Markdown allows you to write using an easy-to-read, easy-to-write plain text format, which then converts to valid HTML for viewing on GitHub
-##Basic writing##
-**Paragraphs**
+##Basic writing
+**Paragraphs
 Paragraphs in Markdown are just one or more lines of consecutive text followed by one or more blank lines.
 
